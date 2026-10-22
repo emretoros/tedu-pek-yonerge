@@ -6,6 +6,7 @@ Programlar ve Eğitim Komisyonu üyelerinin incelemesi için hazırlanan statik 
 - Her fıkranın altında açılan, ilk kez okuyan üyeler için yazılmış sekiz alanlı açıklama.
 - Ortak iş akışı, form/rehber envanteri, sekiz konu için kaynak incelemesinin sonucu ve 21 kaynak.
 - Türkçe arama, fıkra bağlantısını kopyalama, yazdırma ve Word indirme.
+- Sol panelde Word dosyasının gerçek sayfa düzeni; 50 fıkra için belge konumunu vurgulama, sayfa seçimi ve yakınlaştırma.
 
 Madde metinleri önceki sürümle aynıdır. Açıklamalardaki çalışma takip kodları kaldırılmış, kaynaklar belge adlarıyla bağlanmıştır. 19 resmî kaynak 22 Ekim 2026 tarihinde yeniden incelenmiştir. Kurum içi kayıt ve hukuk görüşü gereken noktalar inceleme sonuçlarında açıklanmıştır. Bu metin henüz yürürlüğe girmiş bir yönerge değildir.
 
